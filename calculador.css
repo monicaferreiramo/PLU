@@ -1,0 +1,52 @@
+<style>
+        body {
+            background-color:black;
+        }
+
+        * {
+            box-sizing:border-box;
+            
+        }
+        .wrap {
+            width: 420px;
+            margin: auto;
+            height: auto;
+            background: rebeccapurple;
+            padding: 25px;
+            border-radius: 30px;
+
+        }
+        input[type=text] {
+            width: 100%;
+            padding: 10px;
+            font-size: 22px;
+            font-weight: bold;
+            margin-top:20px;
+            border-radius:5px;
+
+        }
+
+        input[type=button] {
+            width:89px;
+            padding:10px;
+            font-size: 20px;
+            font-weight: bold;
+            border-radius: 10px;
+
+        }
+        #del {
+            width:100%;
+        }
+
+        h1 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 30px;
+            color: aliceblue;
+        }
+
+        #action {
+            color: rgb(123, 124, 126);
+        
+        }
+
+    </style>
